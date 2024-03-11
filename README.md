@@ -1,8 +1,8 @@
 # Innodev 2k24
 <h2>job Searching website</h2>
-*Team Name: Full_stack_squad*
+<h4>Team Name: Full_stack_squad</h4>
 
-*Team Members Name:*
+<h4>Team Members Name:
 -Divyansh Meena (https://github.com/de13vil)
 -Deepak Kumar Gaund (https://github.com/Deepak4053)
 -Satyam Shahi (https://github.com/satyamgitsat2944)
@@ -28,4 +28,4 @@ Tech Stacks:
 -React js : for backend developement
 -Node js: frontend
 -bootstrap
--paytm API
+-paytm API</h4>
