@@ -9,7 +9,7 @@
 ->Sumit Agrawal ()<br>
 <br>
 Proposed Features:<br>
-  
+  <br>
 ->Allow users to create accounts and log in securely.<br>
   Display a list of available job opportunities.<br>
 <br>
