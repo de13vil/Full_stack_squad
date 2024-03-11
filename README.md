@@ -9,9 +9,10 @@
 ->Sumit Agrawal ()<br>
 <br>
 Proposed Features:<br>
+  
 ->Allow users to create accounts and log in securely.<br>
   Display a list of available job opportunities.<br>
-
+<br>
 ->Enable users to search for jobs based on keywords,<br>
   location, industry, etc.<br>
 
