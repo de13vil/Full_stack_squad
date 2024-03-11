@@ -6,7 +6,7 @@
 ->Divyansh Meena (https://github.com/de13vil)<br>
 ->Deepak Kumar Gaund (https://github.com/Deepak4053)<br>
 ->Satyam Shahi (https://github.com/satyamgitsat2944)<br>
-->Sumit Agrawal ()<br>
+->Sumit Agrawal (https://github.com/7902016000)<br>
 <br>
 Proposed Features:<br>
   <br>
