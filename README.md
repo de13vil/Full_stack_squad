@@ -12,25 +12,25 @@ Proposed Features:<br>
   <br>
 ->Allow users to create accounts and log in securely.<br>
   Display a list of available job opportunities.<br>
-<br>
+  <br>
 ->Enable users to search for jobs based on keywords,<br>
   location, industry, etc.<br>
-
+  <br>
 ->Filters: Provide filters to refine job search results (e.g., by<br>
   salary, company size, job type).<br>
-
+  <br>
 ->Show detailed information about each job listing,<br>
   including job description, requirements, and benefits.<br>
-
+  <br>
 ->Allow users to apply for jobs directly through the<br>
   platform.<br>
-
+  <br>
 ->Enable users to create and manage their profiles,<br>
   including uploading resumes and setting preferences.<br>
-
+  <br>
 ->Send notifications to users about new job listings,<br>
   application status updates, etc.<br>
-
+  <br>
 Tech Stacks:<br>
 ->React js : for backend developement<br>
 ->Node js: frontend<br>
