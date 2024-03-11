@@ -1,8 +1,8 @@
 # Innodev 2k24
 *job Searching website*
-Team Name: Full_stack_squad
+*Team Name: Full_stack_squad*
 
-Team Members Name:
+*Team Members Name:*
 -Divyansh Meena (https://github.com/de13vil)
 -Deepak Kumar Gaund (https://github.com/Deepak4053)
 -Satyam Shahi (https://github.com/satyamgitsat2944)
