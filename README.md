@@ -2,7 +2,7 @@
 <h3>job Searching website</h3>
 <h4>Team Name: Full_stack_squad</h4>
 
-<h4>Team Members Name:<br>
+<p>Team Members Name:<br>
 ->Divyansh Meena (https://github.com/de13vil)<br>
 ->Deepak Kumar Gaund (https://github.com/Deepak4053)<br>
 ->Satyam Shahi (https://github.com/satyamgitsat2944)<br>
@@ -35,4 +35,4 @@ Tech Stacks:<br>
 ->React js : for backend developement<br>
 ->Node js: frontend<br>
 ->bootstrap<br>
-->paytm API</h4>
+->paytm API</p>
