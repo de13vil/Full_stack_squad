@@ -7,7 +7,7 @@
 ->Deepak Kumar Gaund (https://github.com/Deepak4053)<br>
 ->Satyam Shahi (https://github.com/satyamgitsat2944)<br>
 ->Sumit Agrawal ()<br>
-
+<br>
 Proposed Features:<br>
 ->Allow users to create accounts and log in securely.<br>
   Display a list of available job opportunities.<br>
